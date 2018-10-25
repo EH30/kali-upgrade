@@ -5,5 +5,5 @@ cd kali-update
 python kali-update.py
 
 Username:kali
-Password:linux
+Password:
 
