@@ -4,6 +4,6 @@ git clone
 cd kali-update
 python kali-update.py
 
-Username:kali
+Username:
 Password:
 
